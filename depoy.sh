@@ -1,0 +1,1 @@
+ rsync -avz --exclude-from='.gitignore' ./ root@45.33.77.191:~/sniper_backend
